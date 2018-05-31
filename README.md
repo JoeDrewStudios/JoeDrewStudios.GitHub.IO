@@ -36,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 ## Games
-* [<game name>](https://<your username>.github.io/<folder holding your game>/index.html)
+* [Lander](https://JoeDrewStudios.github.io/<.>/index.html)
